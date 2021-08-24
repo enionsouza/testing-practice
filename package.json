@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "A few practical tests for JavaScript functions using the Jest library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch-test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enionsouza/testing-practice.git"
+  },
+  "author": "Enio N. de Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enionsouza/testing-practice/issues"
+  },
+  "homepage": "https://github.com/enionsouza/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
